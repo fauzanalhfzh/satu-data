@@ -1,0 +1,127 @@
+Kecamatan,Jenis Tanaman Buah-buahan,Jumlah Tanaman,Jenis Ternak,Jumlah Populasi Ternak,Kecamatan,Jenis Ternak,Jumlah Kelompok Peternakan
+Kec. Tapa,Duku/Langsat,10,Sapi Potong,"2,083",Tapa,Sapi,17
+Kec. Tapa,Durian,508,Kambing,329,Tapa,Ayam,7
+Kec. Tapa,Mangga,332,Ayam Buras,"12,102",Bulango Utara,Sapi,24
+Kec. Tapa,Nangka,50,Ayam Ras Pedaging,"29,200",Bulango Utara,Ayam,13
+Kec. Tapa,Pepaya,90,Itik,0,Bulango Selataan,Sapi,26
+Kec. Tapa,Pisang,"3,115",Puyuh,600,Bulango Selataan,Ayam,11
+Kec. Tapa,Sirsak,50,Merpati,15,Bulango Timur,Sapi,13
+Kec. Bulango Utara,Duku/Langsat,"1,400",Sapi Potong,"3,505",Bulango Timur,Ayam,18
+Kec. Bulango Utara,Durian,"1,250",Kambing,321,Bulango Ulu,Sapi,17
+Kec. Bulango Utara,Mangga,905,Ayam Buras,"17,880",Bulango Ulu,Ayam,2
+Kec. Bulango Utara,Nangka,365,Ayam Ras Pedaging,"19,400",Kabila,Sapi,36
+Kec. Bulango Utara,Pepaya,270,Itik,137,Kabila,Ayam,19
+Kec. Bulango Utara,Pisang,"1,785",Puyuh,"4,700",Tilongkabila,Sapi,52
+Kec. Bulango Utara,Sirsak,50,Merpati,35,Tilongkabila,Ayam,12
+Kec. Bulango Selatan,Duku/Langsat,0,Sapi Potong,"3,475",Suwawa,Sapi,27
+Kec. Bulango Selatan,Durian,0,Kambing,196,Suwawa,Ayam,20
+Kec. Bulango Selatan,Mangga,127,Ayam Buras,"14,597",Suwawa Selatan,Sapi,23
+Kec. Bulango Selatan,Nangka,0,Ayam Ras Pedaging,"17,550",Suwawa Selatan,Ayam,4
+Kec. Bulango Selatan,Pepaya,174,Itik,385,Suwawa Timur,Sapi,21
+Kec. Bulango Selatan,Pisang,888,Puyuh,"3,800",Suwawa Timur,Ayam,14
+Kec. Bulango Selatan,Sirsak,50,Merpati,145,Suwawa Tengah,Sapi,11
+Kec. Bulango Timur,Duku/Langsat,"1,400",Sapi Potong,"2,208",Suwawa Tengah,Ayam,4
+Kec. Bulango Timur,Durian,"1,250",Kambing,159,Pinogu,Sapi,6
+Kec. Bulango Timur,Mangga,600,Ayam Buras,"13,611",Pinogu,Ayam,2
+Kec. Bulango Timur,Nangka,237,Ayam Ras Pedaging,"33,850",Botupingge,Sapi,18
+Kec. Bulango Timur,Pepaya,50,Itik,286,Botupingge,Ayam,2
+Kec. Bulango Timur,Pisang,850,Puyuh,"1,600",Kabila Bone,Sapi,22
+Kec. Bulango Timur,Sirsak,50,Merpati,22,Kabila Bone,Ayam,2
+Kec. Bulango Ulu,Duku/Langsat,"3,795",Sapi Potong,"2,377",Bone Pantai,Sapi,23
+Kec. Bulango Ulu,Durian,626,Kambing,207,Bone Pantai,Ayam,2
+Kec. Bulango Ulu,Mangga,"1,083",Ayam Buras,"10,460",Bulawa,Sapi,15
+Kec. Bulango Ulu,Nangka,0,Ayam Ras Pedaging,0,Bulawa,Ayam,1
+Kec. Bulango Ulu,Pepaya,398,Itik,355,Bone Raya,Sapi,21
+Kec. Bulango Ulu,Pisang,600,Puyuh,0,Bone Raya,Ayam,1
+Kec. Bulango Ulu,Sirsak,0,Merpati,17,Bone,Sapi,23
+Kec. Kabila,Duku/Langsat,0,Sapi Potong,"4,408",Bone,Ayam,6
+Kec. Kabila,Durian,0,Kambing,445,,,
+Kec. Kabila,Mangga,210,Ayam Buras,"33,615",,,
+Kec. Kabila,Nangka,140,Ayam Ras Pedaging,"31,150",,,
+Kec. Kabila,Pepaya,25,Itik,"3,485",,,
+Kec. Kabila,Pisang,"2,050",Puyuh,304,,,
+Kec. Kabila,Sirsak,25,Merpati,102,,,
+Kec. Tilongkabila,Duku/Langsat,58,Sapi Potong,"9,555",,,
+Kec. Tilongkabila,Durian,518,Kambing,739,,,
+Kec. Tilongkabila,Mangga,"3,080",Ayam Buras,"70,942",,,
+Kec. Tilongkabila,Nangka,25,Ayam Ras Pedaging,"29,200",,,
+Kec. Tilongkabila,Pepaya,61,Itik,763,,,
+Kec. Tilongkabila,Pisang,"1,552",Puyuh,"2,404",,,
+Kec. Tilongkabila,Sirsak,25,Merpati,68,,,
+Kec. Botupingge,Duku/Langsat,0,Sapi Potong,"2,248",,,
+Kec. Botupingge,Durian,0,Kambing,493,,,
+Kec. Botupingge,Mangga,750,Ayam Buras,"16,720",,,
+Kec. Botupingge,Nangka,35,Ayam Ras Pedaging,"38,450",,,
+Kec. Botupingge,Pepaya,122,Itik,"1,090",,,
+Kec. Botupingge,Pisang,"1,200",Puyuh,700,,,
+Kec. Botupingge,Sirsak,0,Merpati,47,,,
+Kec. Suwawa,Duku/Langsat,0,Sapi Potong,"4,491",,,
+Kec. Suwawa,Durian,0,Kambing,286,,,
+Kec. Suwawa,Mangga,0,Ayam Buras,"18,695",,,
+Kec. Suwawa,Nangka,0,Ayam Ras Pedaging,"24,000",,,
+Kec. Suwawa,Pepaya,"1,070",Itik,"2,468",,,
+Kec. Suwawa,Pisang,100,Puyuh,37,,,
+Kec. Suwawa,Sirsak,0,Merpati,44,,,
+Kec. Suwawa Tengah,Duku/Langsat,"1,661",Sapi Potong,"1,140",,,
+Kec. Suwawa Tengah,Durian,0,Kambing,146,,,
+Kec. Suwawa Tengah,Mangga,100,Ayam Buras,"10,568",,,
+Kec. Suwawa Tengah,Nangka,125,Ayam Ras Pedaging,0,,,
+Kec. Suwawa Tengah,Pepaya,195,Itik,104,,,
+Kec. Suwawa Tengah,Pisang,"3,565",Puyuh,"2,500",,,
+Kec. Suwawa Tengah,Sirsak,50,Merpati,19,,,
+Kec. Suwawa Selatan,Duku/Langsat,582,Sapi Potong,"1,856",,,
+Kec. Suwawa Selatan,Durian,593,Kambing,181,,,
+Kec. Suwawa Selatan,Mangga,131,Ayam Buras,"50,209",,,
+Kec. Suwawa Selatan,Nangka,43,Ayam Ras Pedaging,"7,100",,,
+Kec. Suwawa Selatan,Pepaya,352,Itik,128,,,
+Kec. Suwawa Selatan,Pisang,"1,667",Puyuh,5,,,
+Kec. Suwawa Selatan,Sirsak,50,Merpati,0,,,
+Kec. Suwawa Timur,Duku/Langsat,"1,525",Sapi Potong,"2,352",,,
+Kec. Suwawa Timur,Durian,"2,115",Kambing,208,,,
+Kec. Suwawa Timur,Mangga,648,Ayam Buras,"6,753",,,
+Kec. Suwawa Timur,Nangka,115,Ayam Ras Pedaging,0,,,
+Kec. Suwawa Timur,Pepaya,385,Itik,103,,,
+Kec. Suwawa Timur,Pisang,"2,572",Puyuh,12,,,
+Kec. Suwawa Timur,Sirsak,0,Merpati,25,,,
+Kec. Pinogu,Duku/Langsat,150,Sapi Potong,"1,003",,,
+Kec. Pinogu,Durian,100,Kambing,80,,,
+Kec. Pinogu,Mangga,220,Ayam Buras,"5,343",,,
+Kec. Pinogu,Nangka,6,Ayam Ras Pedaging,0,,,
+Kec. Pinogu,Pepaya,100,Itik,0,,,
+Kec. Pinogu,Pisang,613,Puyuh,3,,,
+Kec. Pinogu,Sirsak,0,Merpati,0,,,
+Kec. Bonepantai,Duku/Langsat,0,Sapi Potong,"2,536",,,
+Kec. Bonepantai,Durian,87,Kambing,719,,,
+Kec. Bonepantai,Mangga,100,Ayam Buras,"23,868",,,
+Kec. Bonepantai,Nangka,53,Ayam Ras Pedaging,0,,,
+Kec. Bonepantai,Pepaya,62,Itik,132,,,
+Kec. Bonepantai,Pisang,150,Puyuh,0,,,
+Kec. Bonepantai,Sirsak,50,Merpati,27,,,
+Kec. Kabila Bone,Duku/Langsat,0,Sapi Potong,"2,235",,,
+Kec. Kabila Bone,Durian,40,Kambing,"1,773",,,
+Kec. Kabila Bone,Mangga,635,Ayam Buras,"17,848",,,
+Kec. Kabila Bone,Nangka,0,Ayam Ras Pedaging,0,,,
+Kec. Kabila Bone,Pepaya,50,Itik,312,,,
+Kec. Kabila Bone,Pisang,"1,412",Puyuh,4,,,
+Kec. Kabila Bone,Sirsak,0,Merpati,102,,,
+Kec. Bone Raya,Duku/Langsat,0,Sapi Potong,"1,293",,,
+Kec. Bone Raya,Durian,75,Kambing,573,,,
+Kec. Bone Raya,Mangga,35,Ayam Buras,"8,135",,,
+Kec. Bone Raya,Nangka,0,Ayam Ras Pedaging,"1,300",,,
+Kec. Bone Raya,Pepaya,0,Itik,161,,,
+Kec. Bone Raya,Pisang,"10,011",Puyuh,0,,,
+Kec. Bone Raya,Sirsak,0,Merpati,21,,,
+Kec. Bulawa,Duku/Langsat,0,Sapi Potong,"1,439",,,
+Kec. Bulawa,Durian,"2,000",Kambing,660,,,
+Kec. Bulawa,Mangga,935,Ayam Buras,"7,574",,,
+Kec. Bulawa,Nangka,0,Ayam Ras Pedaging,0,,,
+Kec. Bulawa,Pepaya,100,Itik,145,,,
+Kec. Bulawa,Pisang,500,Puyuh,0,,,
+Kec. Bulawa,Sirsak,10,Merpati,30,,,
+Kec. Bone,Duku/Langsat,354,Sapi Potong,"1,480",,,
+Kec. Bone,Durian,"13,596",Kambing,834,,,
+Kec. Bone,Mangga,123,Ayam Buras,"7,398",,,
+Kec. Bone,Nangka,184,Ayam Ras Pedaging,0,,,
+Kec. Bone,Pepaya,57,Itik,188,,,
+Kec. Bone,Pisang,"1,883",Puyuh,0,,,
+Kec. Bone,Sirsak,0,Merpati,42,,,
